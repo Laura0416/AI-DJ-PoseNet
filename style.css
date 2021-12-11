@@ -1,0 +1,42 @@
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin-top: 0px;
+}
+
+.note{
+    color: black;
+    font-size: 15px;
+}
+
+body{
+    background-size: cover;
+}
+
+.image{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_volume{
+    float: right;
+}
+
+.Speed{
+    font-size: 20px;
+}
+
+.playButton{
+    font-size: 27px;
+    width: 150px;
+}
+
+canvas{
+    border: solid 5px white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
